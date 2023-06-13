@@ -3,7 +3,7 @@ import Feature from '../../components/feature/Feature';
 import './about.css'
 const About = () => {
   return (
-    <div className="about section__margin" id="wgpt3">
+    <div className="about section__margin" id="about">
     <div className="about-feature">
     <Feature title="What is SumZ?" text="SumZ is an advanced AI-powered app that revolutionizes the way you consume information. With its state-of-the-art summarization algorithms, SumZ condenses lengthy texts into concise and coherent summaries. By extracting key ideas and capturing the essence of the original content, SumZ saves you time and effort in understanding complex information. Stay informed, enhance productivity, and effortlessly extract the most important insights with SumZ, your ultimate summarization AI app." />
     </div>
